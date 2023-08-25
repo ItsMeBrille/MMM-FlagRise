@@ -1,0 +1,6 @@
+.flag-image {
+    max-width: 75px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    display: block; /* Ensure the image takes up the available width */
+    margin: auto; /* Center the image horizontally */
+}
