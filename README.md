@@ -1,6 +1,3 @@
-Apologies for the confusion. Since there are no additional dependencies, here's the simplified README without the installation of dependencies:
-
-```markdown
 # MMM-FlagRise
 
 **MMM-FlagRise** is a MagicMirror2 module that displays the Norwegian flag based on specific rules for flag raising and lowering. The module fetches sunrise and sunset times for a given city using an external API and shows the flag image during daytime based on predefined regulations. Change the flag image in the module folder to fit your nationality.
